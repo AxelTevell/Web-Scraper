@@ -6,7 +6,7 @@ producer and alcohol content of the beer automatically, provided a link to syste
 selenium and stores the data in a dataframe using pandas.
 After a bit of cleaning i stored the data in a database i created in sql.
 
-If you just want to play around with the data you can dowload the csv file "containing information about 399 different beers.
+If you just want to play around with the data you can dowload the csv file "Systemet_Öl.csv" containing information about 399 different beers.
 
 OBS!
 The text data will be in swedish since systembolaget is only operating in Sweden.
